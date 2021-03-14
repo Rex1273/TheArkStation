@@ -938,15 +938,14 @@
 /turf/simulated/floor/tiled/techmaint,
 /area/liberty/hallway/three)
 "ea" = (
-/obj/structure/ladder/updown,
 /obj/structure/lattice,
-/obj/structure/catwalk,
 /obj/structure/railing/mapped{
 	dir = 1
 	},
 /obj/structure/railing/mapped{
 	dir = 8
 	},
+/obj/structure/ladder,
 /turf/simulated/open,
 /area/liberty/engineering/substation/substation_level_three)
 "eh" = (

@@ -17643,7 +17643,6 @@
 "St" = (
 /obj/structure/ladder/updown,
 /obj/structure/lattice,
-/obj/structure/catwalk,
 /obj/structure/railing/mapped{
 	dir = 1
 	},
